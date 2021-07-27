@@ -10,3 +10,5 @@ algorithmic desicion systems, building data pipelines, analysing and manipulatig
 - You can reach me here: https://tr.linkedin.com/in/umar-i%C4%9Fan-1bab23a6"
 
 
+
+(https://github-readme-stats.vercel.app/api?username=UmarIgan)](https://github.com/UmarIgan/github-readme-stats)
