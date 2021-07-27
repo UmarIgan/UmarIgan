@@ -11,4 +11,4 @@ algorithmic desicion systems, building data pipelines, analysing and manipulatig
 
 
 
-(https://github-readme-stats.vercel.app/api?username=UmarIgan)](https://github.com/UmarIgan/github-readme-stats)
+[![Umar's GitHub stats](https://github-readme-stats.vercel.app/api?username=UmarIgan)](https://github.com/UmarIgan/github-readme-stats)
