@@ -1,10 +1,7 @@
-### Hi there 👋
-
-
 This is Umar.
  - I graduated from University of Gaziantep, Engineering of Physics.
  - I am currently working at tapu.com, a marketplace for real estate auction. 
- - My title is Data Analyst and as a data analyst I work on maintaining and building Dashboards, building machine learning products, 
+ - I am a Data Scientist and as a Data Scientist I work on maintaining and building Dashboards, building machine learning products, 
  building algorithmic desicion systems, building data pipelines, analysing and manipulatig data and mining data from different sources.
 - Stacks: Python, MySQL, PostgreSQL, BigQuery, Git, Docker, Jira, Google Data Studio. 
 
